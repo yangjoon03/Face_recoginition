@@ -25,6 +25,12 @@ Pip install tqdm
 <br>
 
 
+## 테스트 환경
+* CPU : i5 12400
+* face detection 실시간 가능
+* face recognition 테스트 중
+
+
 ## face_detection
 ![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
 <br>
