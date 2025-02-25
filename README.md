@@ -25,8 +25,15 @@ Pip install tqdm
 <br>
 
 
-## 이미지 업로드 예정
+## face_detection
+![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
+<br>
 
+## face_recoginition
+![face_recoginition](https://github.com/user-attachments/assets/bf40a958-90d0-4861-8b91-13e1b6946855)<br>
+✔예시 이미지로 누구인지 분류는 하지 못함.
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
+
+
