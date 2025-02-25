@@ -18,7 +18,7 @@ Pip install tqdm
 <br>
 
 
-## face recoginition 과정
+## face recognition 과정
 1. openVINO face_detection(ads0001) 얼굴 인식
 2. 인식한 부분에 대하여 CNN모델 학습
 3. 얼굴인식된 부분에 대하여 CNN 추론 진행
@@ -29,7 +29,7 @@ Pip install tqdm
 ![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
 <br>
 
-## face_recoginition
+## face_recognition
 ![face_recoginition](https://github.com/user-attachments/assets/bf40a958-90d0-4861-8b91-13e1b6946855)<br>
 ✔예시 이미지로 누구인지 분류는 하지 못함.
 
