@@ -25,7 +25,7 @@ Pip install tqdm
 <br>
 
 
-## 테스트 환경
+## 테스트 환경(CPU only)
 * CPU : i5 12400
 * face detection 실시간 가능
 * face recognition 5명까지 실시간 가능
