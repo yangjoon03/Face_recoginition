@@ -1,5 +1,4 @@
 ## 서론
-* 전체 코드 X
 * CNN,Resnet 모델 학습 기본코드
 * face detection에 대해서는 [face_detection] 참조
 <br>
@@ -17,6 +16,14 @@ Pip install tqdm
 <br>
 <br>
 
+## 코드
+* 해당 코드는 테스트를 위한 코드로 동적으로 세팅 되어 있지 않음.
+* train 80% val 20%
+
+
+
+## 디렉토리 구조
+
 
 ## face recognition 과정
 1. openVINO face_detection(ads0001) 얼굴 인식
@@ -30,6 +37,9 @@ Pip install tqdm
 * face detection 실시간 가능
 * face recognition 5명까지 실시간 가능
 
+## BTS 훈련
+* 데이터 출처
+* 해당데이터에서 추가적인 가공 진행 후 학습 진행하였음.
 
 ## face_detection
 ![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
