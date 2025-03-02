@@ -40,6 +40,7 @@ Pip install tqdm
 ## BTS 훈련
 * 데이터 출처
 * 해당데이터에서 추가적인 가공 진행 후 학습 진행하였음.
+* 개인적인 학습용도로 활용. 학습된 모델에 대해서는 공유 X
 
 ## face_detection
 ![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
