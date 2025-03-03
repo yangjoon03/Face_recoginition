@@ -23,7 +23,17 @@ Pip install tqdm
 
 
 ## 디렉토리 구조
+📂 프로젝트 폴더<br>
+ ├── 📂 train/   <br>
+ │    ├── 📂 c0/<br>
+ │    │    ├── img_1.jpg<br>
+ │    │    ├── img_2.jpg<br>
+ │    │<br>
+ │    ├── 📂 c1/<br>
+ │    │    ├── img_3.jpg<br>
+ │    │    ├── img_4.jpg<br>
 
+<br>
 
 ## face recognition 과정
 1. openVINO face_detection(ads0001) 얼굴 인식
@@ -42,6 +52,8 @@ Pip install tqdm
 * 해당데이터에서 추가적인 가공 진행 후 학습 진행하였음.
 * 개인적인 학습용도로 활용. 학습된 모델에 대해서는 공유 X
 * 라벨 : ['jhope', 'jimin', 'jin', 'jungkook', 'rm', 'suga', 'v']
+* ipynb를 보게되면 val 정확도가 낮은 것을 볼 수 있다. 파라미터를 조절하면 더 좋은 결과를 얻을 수 있을 것이다.
+* 학습 데이터의 해상도가 높지 않아 높은 정확도를 보이진 않는다.
 
 
 ## face_detection
@@ -51,6 +63,9 @@ Pip install tqdm
 ## face_recognition
 ![image](https://github.com/user-attachments/assets/26f2947f-f0ce-43d4-8d9b-515276bf96f4)
 * ✔ 제이홉,뷔,정국,RM,지민,진,슈가
+
+
+해당 프로젝트를 하고있는 하드웨어 라떼판다3에서는 추가적인 작업을 하기에는 제약이 있어 yolo5모델을 사용할 예정이므로 후의 코드는 yolo5에서 진행.
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
