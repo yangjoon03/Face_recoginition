@@ -1,6 +1,7 @@
 ## 서론
 * CNN,Resnet 모델 학습 기본코드
 * face detection에 대해서는 [face_detection] 참조
+* 해당 프로젝트를 하고있는 하드웨어 라떼판다3에서는 추가적인 작업을 하기에는 제약이 있어 yolo5모델을 사용할 예정이므로 후의 코드는 [yolo5]에서 진행.
 <br>
 
 ## 가상환경
@@ -64,8 +65,6 @@ Pip install tqdm
 ![image](https://github.com/user-attachments/assets/26f2947f-f0ce-43d4-8d9b-515276bf96f4)
 * ✔ 제이홉,뷔,정국,RM,지민,진,슈가
 
-
-해당 프로젝트를 하고있는 하드웨어 라떼판다3에서는 추가적인 작업을 하기에는 제약이 있어 yolo5모델을 사용할 예정이므로 후의 코드는 [yolo5]에서 진행.
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
