@@ -50,6 +50,7 @@ Pip install tqdm
 
 ## face_recognition
 ![image](https://github.com/user-attachments/assets/26f2947f-f0ce-43d4-8d9b-515276bf96f4)
+* ✔ 제이홉,뷔,정국,RM,지민,진,슈가
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
