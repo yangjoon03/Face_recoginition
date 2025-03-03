@@ -41,13 +41,16 @@ Pip install tqdm
 * 데이터 출처
 * 해당데이터에서 추가적인 가공 진행 후 학습 진행하였음.
 * 개인적인 학습용도로 활용. 학습된 모델에 대해서는 공유 X
+* 라벨 : ['jhope', 'jimin', 'jin', 'jungkook', 'rm', 'suga', 'v']
+
 
 ## face_detection
 ![face_detection](https://github.com/user-attachments/assets/d6c79df9-28c1-44d4-ae6a-b360f29238af)
 <br>
 
 ## face_recognition
-![face_recoginition](https://github.com/user-attachments/assets/bf40a958-90d0-4861-8b91-13e1b6946855)<br>
+![image](https://github.com/user-attachments/assets/26f2947f-f0ce-43d4-8d9b-515276bf96f4)
+
 ✔예시 이미지로 누구인지 분류는 하지 못함.
 
 [face_detection]: https://github.com/yangjoon03/openVINO
