@@ -48,13 +48,12 @@ Pip install tqdm
 * face recognition 5명까지 실시간 가능
 
 ## BTS 훈련
-* 데이터 출처
+* 데이터 출처 [kaggle]
 * 해당데이터에서 추가적인 가공 진행 후 학습 진행하였음.
 * 개인적인 학습용도로 활용. 학습된 모델에 대해서는 공유 X
 * 라벨 : ['jhope', 'jimin', 'jin', 'jungkook', 'rm', 'suga', 'v']
 * ipynb를 보게되면 val 정확도가 낮은 것을 볼 수 있다. 파라미터를 조절하면 더 좋은 결과를 얻을 수 있을 것이다.
 * 학습 데이터의 해상도가 높지 않아 높은 정확도를 보이진 않는다.
-* [kaggle]
 
 
 ## face_detection
