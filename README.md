@@ -65,10 +65,11 @@ Pip install tqdm
 * ✔ 제이홉,뷔,정국,RM,지민,진,슈가
 
 
-해당 프로젝트를 하고있는 하드웨어 라떼판다3에서는 추가적인 작업을 하기에는 제약이 있어 yolo5모델을 사용할 예정이므로 후의 코드는 yolo5에서 진행.
+해당 프로젝트를 하고있는 하드웨어 라떼판다3에서는 추가적인 작업을 하기에는 제약이 있어 yolo5모델을 사용할 예정이므로 후의 코드는 [yolo5]에서 진행.
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
 [kaggle]: https://www.kaggle.com/datasets/sharad5/korean-band-bts-members-face-recognition
+[yolo5]: https://github.com/yangjoon03/yolo5
 
 
