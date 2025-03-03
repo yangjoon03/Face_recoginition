@@ -54,6 +54,7 @@ Pip install tqdm
 * 라벨 : ['jhope', 'jimin', 'jin', 'jungkook', 'rm', 'suga', 'v']
 * ipynb를 보게되면 val 정확도가 낮은 것을 볼 수 있다. 파라미터를 조절하면 더 좋은 결과를 얻을 수 있을 것이다.
 * 학습 데이터의 해상도가 높지 않아 높은 정확도를 보이진 않는다.
+* [kaggle]
 
 
 ## face_detection
@@ -69,5 +70,6 @@ Pip install tqdm
 
 [face_detection]: https://github.com/yangjoon03/openVINO
 [Pytorch]: https://pytorch.kr/get-started/previous-versions/
+[kaggle]: https://www.kaggle.com/datasets/sharad5/korean-band-bts-members-face-recognition
 
 
